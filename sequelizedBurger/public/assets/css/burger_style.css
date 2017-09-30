@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+}
+body{
+    background: black;
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.2em;
+    color:#333;
+}
+.jumbotron{
+    background-image: url(../img/background.jpg);
+    margin-top:20px;
+    background-attachment: cover;
+}
+img{
+    width:150px;
+    height: 150px;
+}
+h3{
+    color:orangered;
+}
+#title{
+    color:#fff;
+}
+.enter{
+    margin-top:30px;
+}
+.devour{
+    margin-top: 10px;
+}
+.customer{
+    margin-top: 5px;
+}
+p{
+    margin-top: 10px;
+    color: #fff;
+}
+#input,.btn{
+    
+    border: 1px solid grey;
+    border-radius: 20px;
+}
